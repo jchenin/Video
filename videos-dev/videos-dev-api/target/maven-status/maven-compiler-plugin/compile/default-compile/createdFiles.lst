@@ -1,0 +1,14 @@
+jin\chen\ZKCuratorClient.class
+jin\chen\controller\VideoController.class
+jin\chen\Application.class
+jin\chen\Swagger2.class
+jin\chen\controller\BgmController.class
+jin\chen\ResourceConfig.class
+jin\chen\interceptor\ControllerInterceptor.class
+jin\chen\controller\RegistLoginController.class
+jin\chen\controller\CommonController.class
+jin\chen\controller\HelloController.class
+jin\chen\controller\UserController.class
+jin\chen\StatisResourcesConfig.class
+jin\chen\ZKCuratorClient$1.class
+jin\chen\WarStartApp.class

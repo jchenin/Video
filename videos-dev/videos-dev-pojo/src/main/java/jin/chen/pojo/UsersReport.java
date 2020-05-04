@@ -1,0 +1,124 @@
+package jin.chen.pojo;
+
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import java.util.Date;
+
+@Table(name = "users_report")
+public class UsersReport {
+    @Id
+    private String id;
+
+    @Column(name = "deal_user_id")
+    private String dealUserId;
+
+    @Column(name = "deal_video_id")
+    private String dealVideoId;
+
+    private String title;
+
+    private String content;
+
+    private String userid;
+
+    private Date ts;
+
+    /**
+     * @return id
+     */
+    public String getId() {
+        return id;
+    }
+
+    /**
+     * @param id
+     */
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    /**
+     * @return deal_user_id
+     */
+    public String getDealUserId() {
+        return dealUserId;
+    }
+
+    /**
+     * @param dealUserId
+     */
+    public void setDealUserId(String dealUserId) {
+        this.dealUserId = dealUserId;
+    }
+
+    /**
+     * @return deal_video_id
+     */
+    public String getDealVideoId() {
+        return dealVideoId;
+    }
+
+    /**
+     * @param dealVideoId
+     */
+    public void setDealVideoId(String dealVideoId) {
+        this.dealVideoId = dealVideoId;
+    }
+
+    /**
+     * @return title
+     */
+    public String getTitle() {
+        return title;
+    }
+
+    /**
+     * @param title
+     */
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    /**
+     * @return content
+     */
+    public String getContent() {
+        return content;
+    }
+
+    /**
+     * @param content
+     */
+    public void setContent(String content) {
+        this.content = content;
+    }
+
+    /**
+     * @return userid
+     */
+    public String getUserid() {
+        return userid;
+    }
+
+    /**
+     * @param userid
+     */
+    public void setUserid(String userid) {
+        this.userid = userid;
+    }
+
+    /**
+     * @return ts
+     */
+    public Date getTs() {
+        return ts;
+    }
+
+    /**
+     * @param ts
+     */
+    public void setTs(Date ts) {
+        this.ts = ts;
+    }
+}

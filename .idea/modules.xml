@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generatorConfig/mybatis-generatorConfig.iml" filepath="$PROJECT_DIR$/mybatis-generatorConfig/mybatis-generatorConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev-api/videos-dev-api.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev-api/videos-dev-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev-common/videos-dev-common.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev-common/videos-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev-mapper/videos-dev-mapper.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev-mapper/videos-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev-pojo/videos-dev-pojo.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev-pojo/videos-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videos-dev/videos-dev-service/videos-dev-service.iml" filepath="$PROJECT_DIR$/videos-dev/videos-dev-service/videos-dev-service.iml" />
+    </modules>
+  </component>
+</project>

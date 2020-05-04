@@ -1,0 +1,6 @@
+jin\chen\service\VideoService.class
+jin\chen\imp\VideoServiceImp.class
+jin\chen\imp\UserServiceImp.class
+jin\chen\service\UserService.class
+jin\chen\imp\BgmServiceImp.class
+jin\chen\service\BgmService.class
